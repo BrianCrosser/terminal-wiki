@@ -1,0 +1,19 @@
+#1. What are the contents of the options variable?
+    
+        "memory", "compile", "assembly", "custom"
+
+#2. Describe what you htink is wrong with this section of code.
+
+        The input is not looking for a int, it is looking for a string. 
+
+#3. What is the contents of it?
+
+        59
+
+#4. What is the type of array?
+
+        int
+
+#5. What do you think is wrong with indexing into the array with such a high number?
+
+        The array can not be that large of a number.
